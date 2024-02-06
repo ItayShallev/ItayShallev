@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## Stats
+# 💫Stats
 <details>
   <summary>:zap: GitHub Stats</summary>
 
