@@ -11,14 +11,14 @@
 ## Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cs,js,cpp" style="pointer-events: none;"/> </br>
+    <img src="https://skillicons.dev/icons?i=python,c,cs,js,cpp"/> </br>
   </a>
 </p>
 
 ## Softwares
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,blender,linux" style="pointer-events: none;"/> </br>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,blender,linux"/> </br>
   </a>
 </p>
 
