@@ -5,6 +5,7 @@
 </div>
 
 <br>
+<br>
 
 # 💻Skills
 ## Programming Languages
@@ -21,6 +22,7 @@
   </a>
 </p>
 
+<br>
 <br>
 
 # 💫Stats
