@@ -1,3 +1,9 @@
+<div align="center">
+  <br>
+  <img src="Banner.png" alt="banner" width="100%">
+  <br>
+</div>
+
 # 💻Skills
 ## Programming Languages
 <p align="left">
