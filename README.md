@@ -4,6 +4,8 @@
   <br>
 </div>
 
+<br>
+
 # 💻Skills
 ## Programming Languages
 <p align="left">
@@ -19,7 +21,7 @@
   </a>
 </p>
 
-
+<br>
 
 # 💫Stats
 <details>
