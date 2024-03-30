@@ -26,8 +26,4 @@
 <br>
 
 # 💫Stats
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Itay Shalev's GitHub Stats" src="https://github-readme-stats-driw.vercel.app/api?username=ItayShallev&show_icons=true&hide_borders=true"/>
-</details>
+<img align="left" alt="Itay Shalev's GitHub Stats" src="https://github-readme-stats-driw.vercel.app/api?username=ItayShallev&theme=dracula&show_icons=true&hide_borders=true"/>
