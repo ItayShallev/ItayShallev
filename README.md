@@ -18,7 +18,7 @@
 ## Softwares
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,blender,linux"/> </br>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,linux"/> </br>
   </a>
 </p>
 
