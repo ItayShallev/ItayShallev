@@ -7,7 +7,7 @@
 <br>
 <br>
 
-# 💻Skills
+# 💻Tech Stack
 ## Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
