@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br>
   <img src="Banner.png" alt="banner" width="100%">
   <br>
@@ -25,7 +25,9 @@
 <br>
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: -->
 <!--![](https://github-readme-stats.vercel.app/api?username=ItayShallev&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)-->
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ItayShallev&theme=darcula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItayShallev&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
